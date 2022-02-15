@@ -1,8 +1,8 @@
 {
-  "name": "monsters-rollodex",
+  "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://markos-aivazoglou.github.io/monsters-rolodex",
+  "homepage": "https://markos-aivazoglou.github.io/monster-rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
